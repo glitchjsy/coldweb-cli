@@ -22,3 +22,21 @@ The websites below have been confirmed as working with this tools. I imagine all
 
 * https://valley.coldweb.co.uk
 * https://lacollette.coldweb.co.uk
+
+## Example Output
+Below is an example JSON output. You can get a CSV output by specifying `--format csv` or `-f csv`.
+
+```json
+[
+  {
+    "name": "Liffey Ribeye 4kg+",
+    "sku": "520",
+    "price": "£82.99",
+    "inStock": true,
+    "unit": "av.4.00Kg",
+    "stockCount": "10+",
+    "link": "https://valley.coldweb.co.uk/ordering/pages/product_info.php?products_id=520",
+    "brand": "LIFF"
+  }
+]
+```

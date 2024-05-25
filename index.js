@@ -145,8 +145,7 @@ async function scrapeAllProducts(page) {
     }, categoriesElement);
 
     // Loop through the category links to get the sub category links
-    for (const l of [1]) {
-        const link = categoryLinks[1];
+    for (const link of categoryLinks) {
         await page.waitForNetworkIdle();
         await page.goto(link);
 
