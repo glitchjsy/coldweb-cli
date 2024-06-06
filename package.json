@@ -2,13 +2,13 @@
   "name": "coldweb-cli",
   "version": "1.0.0",
   "description": "",
+  "author": "Luke <luke@glitch.je",
+  "license": "MIT",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "chalk": "4.0.0",
     "json-2-csv": "^5.5.1",
