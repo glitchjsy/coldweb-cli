@@ -1,4 +1,5 @@
 # coldweb-cli
+[![Hits](https://hitcount.dev/p/glitchjsy/coldweb-cli.svg)](https://hitcount.dev/p/glitchjsy/coldweb-cli)  
 Scrapes all products from [coldweb](https://coldweb.co.uk) systems, such as the [ValleyFoods Site](https://valley.coldweb.co.uk).
 
 ## Installation
